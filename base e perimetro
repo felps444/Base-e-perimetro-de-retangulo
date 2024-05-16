@@ -1,3 +1,4 @@
+programa
 {
   funcao inicio() {
     real base, altura, area, perimetro
